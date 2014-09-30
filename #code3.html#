@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<div id="mainContent">
+	<div class="images">
+		<div class="images">
+			<img src="images/fall1.jpg" alt="landscape"/> 
+		</div>
+		<div class="images">
+			<img src="images/fall2.jpg" alt="autumn plant"/> 
+		</div>
+		<div class="images">
+			<img src="images/fall3.jpg" alt="single fall leaf"/> 
+		</div>
+		<div class="images">
+			<img src="images/fall4.jpg" alt="fall leaves"/> 
+		</div>
+	</div>
+</div>
+</body>
+</html>
+

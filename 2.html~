@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>A Fall Flower</title>
+</head>
+<body>
+
+<div id="mainContent">
+	<div id="heading">	
+		<h1>A Fall Flower</h1>
+	</div>
+	<div class="image">
+		<div class="image">
+			<img src="images/fall2full.jpg" alt="a fall flower" /> 
+			<div class="caption">The essence of Fall in a plant</div>
+		</div>
+		
+	</div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Beautiful Landscape</title>
+</head>
+<body>
+
+<div id="mainContent">
+	<div id="heading">	
+		<h1>Beautiful Landscape</h1>
+	</div>
+	<div class="image">
+		<div class="image">
+			<img src="images/fall1full.jpg" alt="fall landscape" /> 
+			<div class="caption"> A beautiful place to admire the colors of Fall</div>
+		</div>
+		
+	</div>
+</div>
+</body>
+</html>
+
